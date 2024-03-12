@@ -1,12 +1,10 @@
-### Hello 👋 It's [Alex !](https://AlexandreLeonetti.github.io)
 
-<a href="https://www.linkedin.com/in/ALexandre-Leonetti/">
+Hi, i'm Alex, senior Full Stack Web Dev. <a href="https://www.linkedin.com/in/ALexandre-Leonetti/">
 You can find me on Linkedin
 </a>
 
 <br />
 
-Hi, i'm Alex, senior Full Stack Web Dev.
 
 
 
