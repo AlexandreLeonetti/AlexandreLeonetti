@@ -12,7 +12,6 @@
 
 Hi, i'm Alex, senior Full Stack Web Dev.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 
