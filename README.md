@@ -1,10 +1,8 @@
 ### Hello 👋 It's [Alex !](https://AlexandreLeonetti.github.io)
 
-<br/>
 <a href="https://www.linkedin.com/in/ALexandre-Leonetti/">
-on Linkedin
+You can find me on Linkedin
 </a>
-<br />
 
 <br />
 
