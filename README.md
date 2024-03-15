@@ -58,4 +58,4 @@ You can find me on Linkedin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreLeonetti&show_icons=true&hide_border=true)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreLeonetti&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
