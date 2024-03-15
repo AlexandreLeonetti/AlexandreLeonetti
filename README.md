@@ -68,8 +68,3 @@ You can find me on Linkedin
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreLeonetti&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreLeonetti&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br>
-<br><br>
-<br><br><br><br><br>
-<hr>
-<p align="center">
-<i><b>---</b></i></p>
