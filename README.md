@@ -59,7 +59,8 @@ You can find me on Linkedin
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreLeonetti&show_icons=true&hide_border=true)
 
-
+<hr>
+<hr>
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
