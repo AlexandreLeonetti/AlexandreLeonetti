@@ -66,5 +66,5 @@ You can find me on Linkedin
 <i><b>Git Activity</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreLeonetti&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreLeonetti&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreLeonetti&show_icons=true&locale=en&theme=github_dark_dimmed" alt="ovi" width="410" /></p>
 <br><br>
